@@ -36,10 +36,10 @@ SETTINGS = {
     "CAPTCHABOT_PRIVATE": False,
 
     # Bot Token (get it from @BotFather)
-    "CAPTCHABOT_TOKEN": "XXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "CAPTCHABOT_TOKEN": "7236731343:AAFlbv9sD-yU2orOehSoUZZPV0UD56eTLls",
 
     # Bot Owner (i.e. "@JoseTLG" or "123456789")
-    "CAPTCHABOT_OWNER": "XXXXXXXXX",
+    "CAPTCHABOT_OWNER": "@Spidey_official_777",
 
     # Enable Bot Webhook connection (False - Polling; True - Webhook)
     # Set to True, to configure Bot for webhook connection mode
